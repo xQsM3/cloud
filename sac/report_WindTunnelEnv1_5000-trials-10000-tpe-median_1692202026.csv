@@ -1,4 +1,0 @@
-,number,value,datetime_start,datetime_complete,duration,params_batch_size,params_buffer_size,params_gamma,params_learning_rate,params_learning_starts,params_log_std_init,params_net_arch,params_tau,params_train_freq,state
-0,0,,2023-08-17 02:06:00.801111,,,2048,1000000,0.95,0.04691769848943554,1000,-1.4072410547636904,small,0.05,4,RUNNING
-1,1,-18077.0412206,2023-08-17 02:06:00.801764,2023-08-17 02:06:09.907502,0 days 00:00:09.105738,64,1000000,0.995,0.03279884074741116,20000,-0.17452913621460286,big,0.01,4,COMPLETE
-2,2,,2023-08-17 02:06:09.909473,,,256,1000000,0.9,0.0020295217413193616,0,-3.1587023882339724,medium,0.005,512,RUNNING
